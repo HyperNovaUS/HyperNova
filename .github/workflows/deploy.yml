@@ -1,0 +1,10 @@
+name: Deploy
+on:
+  push:
+    tags: ['v*']
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: echo "Deploying HyperNova ${{ github.ref_name }}"

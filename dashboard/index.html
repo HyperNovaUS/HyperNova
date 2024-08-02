@@ -1,0 +1,34 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>HyperNova Dashboard</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<style>@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+body{font-family:'Inter',sans-serif;background:#0a0a0f;color:#e2e8f0;}
+.card{background:rgba(30,30,60,0.6);border:1px solid rgba(99,102,241,0.2);border-radius:12px;padding:20px;}
+.stat{font-size:2rem;font-weight:700;color:#818cf8;}
+</style></head><body class="p-6">
+<div class="max-w-6xl mx-auto">
+  <div class="flex items-center justify-between mb-8">
+    <div><h1 class="text-3xl font-bold">HyperNova</h1><p class="text-gray-400">Cross-Chain Intent Network</p></div>
+    <div class="flex gap-2"><span class="px-3 py-1 bg-green-900/50 text-green-400 rounded-full text-sm">All Systems Go</span></div>
+  </div>
+  <div class="grid grid-cols-4 gap-4 mb-8">
+    <div class="card"><p class="text-gray-400 text-sm">Total Intents</p><p class="stat">15,420</p></div>
+    <div class="card"><p class="text-gray-400 text-sm">Volume</p><p class="stat">847.5 ETH</p></div>
+    <div class="card"><p class="text-gray-400 text-sm">Active Solvers</p><p class="stat">47</p></div>
+    <div class="card"><p class="text-gray-400 text-sm">Avg Fulfillment</p><p class="stat">32s</p></div>
+  </div>
+  <div class="grid grid-cols-2 gap-6">
+    <div class="card"><h2 class="text-lg font-semibold mb-4">Recent Intents</h2>
+      <table class="w-full text-sm"><thead><tr class="text-gray-400"><th class="text-left pb-2">ID</th><th class="text-left pb-2">Chain</th><th class="text-right pb-2">Amount</th><th class="text-right pb-2">Status</th></tr></thead>
+      <tbody><tr><td class="py-1">0x1a2b...3c4d</td><td>RH → Base</td><td class="text-right">2.5 ETH</td><td class="text-right text-green-400">✓</td></tr>
+      <tr><td class="py-1">0x5e6f...7g8h</td><td>Base → Arb</td><td class="text-right">1.2 ETH</td><td class="text-right text-yellow-400">...</td></tr>
+      <tr><td class="py-1">0x9i0j...1k2l</td><td>Eth → RH</td><td class="text-right">5.0 ETH</td><td class="text-right text-green-400">✓</td></tr></tbody></table></div>
+    <div class="card"><h2 class="text-lg font-semibold mb-4">Network Status</h2>
+      <div class="space-y-3"><div class="flex justify-between"><span>Robinhood Chain</span><span class="text-green-400">● Active</span></div>
+      <div class="flex justify-between"><span>Ethereum</span><span class="text-green-400">● Active</span></div>
+      <div class="flex justify-between"><span>Base</span><span class="text-green-400">● Active</span></div>
+      <div class="flex justify-between"><span>Arbitrum</span><span class="text-green-400">● Active</span></div>
+      <div class="flex justify-between"><span>Virtuals Protocol</span><span class="text-green-400">● Active</span></div></div></div>
+  </div>
+</div></body></html>

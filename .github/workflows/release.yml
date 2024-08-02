@@ -1,0 +1,11 @@
+name: Release
+on:
+  push:
+    branches: [main]
+    paths: ['CHANGELOG.md']
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: echo "Creating release..."
