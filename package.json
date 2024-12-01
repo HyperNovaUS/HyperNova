@@ -1,0 +1,12 @@
+{
+  "name": "hypernova",
+  "version": "0.4.2",
+  "description": "Cross-Chain Intent Execution Network \u2014 Robinhood Chain, EVM, Virtuals Protocol",
+  "private": true,
+  "scripts": {
+    "test": "pytest tests/",
+    "deploy": "python scripts/deploy/deploy_all.py",
+    "keeper": "python scripts/keeper.py",
+    "api": "python api/server.py"
+  }
+}
