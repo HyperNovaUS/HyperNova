@@ -97,3 +97,4 @@
 2025-02-07 19:58 — Bump dev version
 2025-02-08 22:07 — Clean up deprecated code
 2025-02-10 15:20 — Address PR comments
+2025-02-12 15:42 — Bug fix — edge case
