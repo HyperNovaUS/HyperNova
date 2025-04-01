@@ -122,3 +122,4 @@
 2025-03-28 17:29 — Bump dev version
 2025-03-30 21:37 — WIP checkpoint
 2025-04-01 18:24 — Bump dev version
+2025-04-01 16:00 — Sync with feature branch
