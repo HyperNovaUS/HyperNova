@@ -124,3 +124,4 @@
 2025-04-01 18:24 — Bump dev version
 2025-04-01 16:00 — Sync with feature branch
 2025-04-03 22:26 — Code review feedback
+2025-04-09 15:21 — Clean up deprecated code
