@@ -143,3 +143,4 @@
 2025-05-17 19:23 — Performance optimization
 2025-05-18 09:54 — Sync with feature branch
 2025-05-22 16:45 — Bump dev version
+2025-05-22 11:27 — Bug fix — edge case
