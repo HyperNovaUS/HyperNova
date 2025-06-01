@@ -146,3 +146,4 @@
 2025-05-22 11:27 — Bug fix — edge case
 2025-05-23 19:17 — Update development progress
 2025-05-30 10:17 — WIP checkpoint
+2025-06-01 18:42 — Bump dev version
