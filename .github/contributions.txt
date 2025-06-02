@@ -147,3 +147,4 @@
 2025-05-23 19:17 — Update development progress
 2025-05-30 10:17 — WIP checkpoint
 2025-06-01 18:42 — Bump dev version
+2025-06-02 22:20 — Performance optimization
