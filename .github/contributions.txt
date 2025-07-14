@@ -171,3 +171,4 @@
 2025-07-09 18:38 — Address PR comments
 2025-07-09 21:39 — WIP checkpoint
 2025-07-10 16:58 — Sync with feature branch
+2025-07-14 18:47 — Code review feedback
