@@ -182,3 +182,4 @@
 2025-07-26 11:04 — Update development progress
 2025-07-27 18:47 — Code review feedback
 2025-07-27 22:36 — Address PR comments
+2025-07-31 13:32 — Clean up deprecated code
