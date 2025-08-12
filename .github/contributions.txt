@@ -186,3 +186,4 @@
 2025-08-07 19:53 — Bump dev version
 2025-08-10 22:17 — Clean up deprecated code
 2025-08-10 18:02 — WIP checkpoint
+2025-08-12 16:58 — Bug fix — edge case
