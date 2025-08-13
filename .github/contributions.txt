@@ -188,3 +188,4 @@
 2025-08-10 18:02 — WIP checkpoint
 2025-08-12 16:58 — Bug fix — edge case
 2025-08-13 15:40 — Bug fix — edge case
+2025-08-13 22:31 — Address PR comments
