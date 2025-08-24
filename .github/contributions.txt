@@ -192,3 +192,4 @@
 2025-08-17 11:21 — Minor refactor
 2025-08-23 13:20 — Sync with feature branch
 2025-08-24 22:32 — Bug fix — edge case
+2025-08-24 22:00 — Address PR comments
