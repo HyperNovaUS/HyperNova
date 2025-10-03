@@ -211,3 +211,4 @@
 2025-09-25 12:54 — Code review feedback
 2025-09-27 20:58 — Code review feedback
 2025-09-27 21:24 — Performance optimization
+2025-10-03 18:21 — Clean up deprecated code
