@@ -229,3 +229,4 @@
 2025-11-09 16:54 — Sync with feature branch
 2025-11-10 22:30 — WIP checkpoint
 2025-11-10 10:15 — WIP checkpoint
+2025-11-12 20:18 — Bug fix — edge case
