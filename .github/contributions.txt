@@ -237,3 +237,4 @@
 2025-11-23 21:42 — Bump dev version
 2025-11-23 19:53 — Sync with feature branch
 2025-11-24 19:41 — WIP checkpoint
+2025-11-25 09:37 — Code review feedback
