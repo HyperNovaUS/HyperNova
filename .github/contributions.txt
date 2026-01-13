@@ -266,3 +266,4 @@
 2026-01-10 12:52 — WIP checkpoint
 2026-01-12 18:00 — Bug fix — edge case
 2026-01-13 11:34 — Minor refactor
+2026-01-13 13:51 — Clean up deprecated code
