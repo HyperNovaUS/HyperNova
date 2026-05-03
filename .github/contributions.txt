@@ -320,3 +320,4 @@
 2026-04-20 12:11 — Bump dev version
 2026-04-24 16:29 — Code review feedback
 2026-04-24 21:36 — Performance optimization
+2026-05-03 16:40 — Clean up deprecated code
