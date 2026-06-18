@@ -345,3 +345,4 @@
 2026-06-11 10:18 — Minor refactor
 2026-06-13 22:47 — Code review feedback
 2026-06-13 17:02 — Address PR comments
+2026-06-18 20:49 — Clean up deprecated code
