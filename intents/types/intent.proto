@@ -1,0 +1,16 @@
+syntax = "proto3";
+package hypernova.intents;
+
+enum ChainType {
+  ROBINHOOD = 0; ETHEREUM = 1; BASE = 2; ARBITRUM = 3; OPTIMISM = 4; POLYGON = 5; VIRTUALS = 6;
+}
+
+message Intent {
+  string id = 1; string user = 2; ChainType source_chain = 3; ChainType target_chain = 4;
+  string token_in = 5; string token_out = 6; uint64 amount_in = 7; uint64 min_amount_out = 8;
+  uint64 deadline = 9; uint64 reward = 10;
+}
+
+message SolverBid {
+  string solver_id = 1; uint64 amount_out = 2; uint64 fee = 3; uint64 estimated_time = 4; double confidence = 5;
+}
