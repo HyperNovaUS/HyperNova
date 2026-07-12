@@ -1,0 +1,35 @@
+{
+  "network": "mainnet",
+  "chains": {
+    "robinhood": {
+      "rpc": "https://rpc.mainnet.chain.robinhood.com",
+      "chain_id": 4663,
+      "explorer": "https://robinhoodchain.blockscout.com"
+    },
+    "ethereum": {
+      "rpc": "https://eth.llamarpc.com",
+      "chain_id": 1
+    },
+    "base": {
+      "rpc": "https://mainnet.base.org",
+      "chain_id": 8453
+    },
+    "arbitrum": {
+      "rpc": "https://arb1.arbitrum.io/rpc",
+      "chain_id": 42161
+    }
+  },
+  "contracts": {
+    "HyperNovaIntent": "0x742d35Cc6634C0532925a3b844Bc9e7595f2bD18",
+    "HyperNovaToken": "0x...",
+    "VirtualsRegistry": "0x..."
+  },
+  "keeper": {
+    "interval": 3600,
+    "gas_limit": 500000
+  },
+  "api": {
+    "port": 8542,
+    "rate_limit": 60
+  }
+}

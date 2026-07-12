@@ -1,0 +1,18 @@
+{
+  "network": "testnet",
+  "chains": {
+    "robinhood": {
+      "rpc": "https://rpc.testnet.chain.robinhood.com",
+      "chain_id": 4664
+    },
+    "base_sepolia": {
+      "rpc": "https://sepolia.base.org",
+      "chain_id": 84532
+    }
+  },
+  "contracts": {},
+  "keeper": {
+    "interval": 300,
+    "gas_limit": 500000
+  }
+}
