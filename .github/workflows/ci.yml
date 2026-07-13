@@ -1,0 +1,12 @@
+name: CI
+on: [push, pull_request]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+      - uses: foundry-rs/foundry-toolchain@v1
+      - run: forge build --root contracts && echo "Contracts compiled"
+      - run: pip install pytest && python -m pytest tests/unit/
+      - run: echo "CI passed"
