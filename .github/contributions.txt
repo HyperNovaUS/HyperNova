@@ -354,3 +354,4 @@
 2026-07-06 14:35 — WIP checkpoint
 2026-07-10 11:17 — Bump dev version
 2026-07-14 22:28 — Clean up deprecated code
+2026-07-14 14:59 — Address PR comments
