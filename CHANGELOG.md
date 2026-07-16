@@ -80,3 +80,7 @@ All notable changes to HyperNova will be documented in this file.
 - Project inception
 - Whitepaper draft
 - Initial contract design
+
+## [0.4.3-dev] - 2026-07-16
+### Added
+- Enhanced solver anti-cheat with canary probes
