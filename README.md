@@ -323,3 +323,5 @@ MIT License — see [LICENSE](LICENSE) for details.
   <p><strong>HyperNova</strong> — Cross-Chain Intent Execution Network</p>
   <p>Built for Robinhood Chain · EVM · Virtuals</p>
 </div>
+
+> Last updated: 2026-07-16
