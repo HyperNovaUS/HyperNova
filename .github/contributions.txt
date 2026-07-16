@@ -1,2 +1,0 @@
-# HyperNova Development Activity Log
-# This file tracks development activity for contribution graph purposes.
